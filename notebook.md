@@ -31,10 +31,8 @@
 | Container        | Wraps content with padding, margin, or color                                               
 | Text             | Displays text                                  
 | Image.network    | Display images from URL                                                                  
-
-| Padding          |                                                                                      
-
-| Center |        |                                                                                              
+| Padding          | Adds space around a widget                                                                                       
+| Center          |Centers its child                                                                                              
 
 ---
 
