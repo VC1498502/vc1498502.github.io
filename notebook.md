@@ -19,13 +19,13 @@
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           |Basic building block of a Flutter app. Everything is a widget                                                                     
-| MaterialApp      | The root of the app. Sets up routes and themes                                                    
-| Scaffold         | Provides basic visual layout-like a header body, floating button                                                                                      
-| StatelessWidget  |  A widget that doesn't change over time                                                                                           
-| StatefulWidget   | A widget that can change over time                                                                                             
-| Navigator        | Manages screen transitons                                                                                          
-| AppBar           | Top navigation bar                                                                                          
+| Widget           |Basic building block of a Flutter app. Everything is a widget | Text, image, container, column                                                                    
+| MaterialApp      | The root of the app. Sets up routes and themes               | Found in main.dart                                     
+| Scaffold         | Provides basic visual layout-like a header body, floating button | Each screen uses it                                                                                      
+| StatelessWidget  |  A widget that doesn't change over time                        | Most of the screen flies                                                                   
+| StatefulWidget   | A widget that can change over time                             | Used in MyHomePage()                                                                 
+| Navigator        | Manages screen transitons                                      | Navigator, pushNamed(context, '/page2);                                                     
+| AppBar           | Top navigation bar                                             | Title of each page appears here                                             
 | Column           | Vertical layout                                                                             
 | Row              | Horizontal layout                                                                        
 | Container        | Wraps content with padding, margin, or color                                               
