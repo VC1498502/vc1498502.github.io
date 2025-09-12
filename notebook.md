@@ -4,7 +4,7 @@
 - [Flutter Notes](#day-1)
 - [What is Flutter?](what-is-flutter)
 - [Key Terms and Definitions](#key-terms-and-definitions)
-- [Code Definitions](#code_definitions)
+- [Code Definitions](#code-definitions)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 ## Flutter Notes
@@ -41,23 +41,22 @@
 - How do you align something to the left or right?
 - What widget adds space around content?
 
-
+## Code Definitions
 
 
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
-
 |------|------------|--------------------------|-------------------|-------------|
-|      | A named container used to store a value that may change. | `var x = 5;` |  |  |
-|      | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
-|      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
-|      | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
-|      | Whole number values. | `int age = 16;` |  |  |
-|      | Number values with decimals. | `double age = 16.2;` |  |  |
-|      | A value that can be true or false. | `bool isLoggedIn = false;` |  |  |
-|      | A collection of values in a specific order. | `List<String> names = [];` |  |  |
-|      | A special value that means “nothing.” | `String? name = null;` |  |  |
-|      | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |  |  |
+| Variable | A named container used to store a value that may change. | `var x = 5;` | Goals in school  | Followers |
+| Constant | A fixed value that cannot change once set. | `const PI = 3.14;` | My name | Username |
+| Data Type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | Phone number | Video, Images |
+| String | A sequence of characters used to represent words or text. | `"Hello World"` | Hello | Game mode |
+| Integer | Whole number values. | `int age = 16;` | Calculations | Streak |
+| Double | Number values with decimals. | `double age = 16.2;` | Smooth movement | Calculations |
+| Boolean | A value that can be true or false. | `bool isLoggedIn = false;` | Is the timer up? | Logging in |
+| Lists | A collection of values in a specific order. | `List<String> names = [];` | Wallet | Contacts list |
+| Null | A special value that means “nothing.” | `String? name = null;` | school schedule | school grades on the first few days |
+| Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |  |  |
 |      | The information passed into a function to change how it works. | `greet(String name)` |  |  |
 |      | The result a function gives back. | `return total;` |  |  |
 |      | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
