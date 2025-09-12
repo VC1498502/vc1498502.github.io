@@ -56,12 +56,12 @@
 | Boolean | A value that can be true or false. | `bool isLoggedIn = false;` | Is the timer up? | Logging in |
 | Lists | A collection of values in a specific order. | `List<String> names = [];` | Wallet | Contacts list |
 | Null | A special value that means “nothing.” | `String? name = null;` | school schedule | school grades on the first few days |
-| Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |  |  |
-|      | The information passed into a function to change how it works. | `greet(String name)` |  |  |
-|      | The result a function gives back. | `return total;` |  |  |
-|      | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
-|      | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
-|      | A specific version of a class. | `Dog myDog = Dog();` |  |  |
+| Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | Turning on your car | switching accounts on soical media |
+| Parameter | The information passed into a function to change how it works. | `greet(String name)` | making a deposit | signing up for an app |
+| Return | The result a function gives back. | `return total;` | receipt | asking for more information on something |
+| Scope | Where a variable or function can be used. | (No set syntax — concept-based) | Gift card | coupons |
+| Class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` | Teahcers class periods | Presentations |
+| Object | A specific version of a class. | `Dog myDog = Dog();` |  |  |
 |      | A variable that belongs to a class/object. | `String name;` |  |  |
 |      | A function that belongs to a class. | `void bark() {}` |  |  |
 |      | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
