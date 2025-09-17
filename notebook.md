@@ -26,13 +26,13 @@
 | StatefulWidget   | A widget that can change over time                             | Used in MyHomePage()                                                                 
 | Navigator        | Manages screen transitons                                      | Navigator, pushNamed(context, '/page2);                                                     
 | AppBar           | Top navigation bar                                             | Title of each page appears here                                             
-| Column           | Vertical layout                                                                             
-| Row              | Horizontal layout                                                                        
-| Container        | Wraps content with padding, margin, or color                                               
-| Text             | Displays text                                  
-| Image.network    | Display images from URL                                                                  
-| Padding          | Adds space around a widget                                                                                       
-| Center          |Centers its child                                                                                              
+| Column           | Vertical layout                                                | Arranges widgets vertically (top to bottom)                              
+| Row              | Horizontal layout                                              | Arranges widgets horizontally (left to right).                          
+| Container        | Wraps content with padding, margin, or color                   | A box to hold widgets. You can size, color, or style it
+| Text             | Displays text                                                  | Shows words on screen.
+| Image.network    | Display images from URL                                        | Displays an image from a URL.                         
+| Padding          | Adds space around a widget                                     |                                                
+| Center           |Centers its child                                                |                                            
 
 ---
 
