@@ -61,13 +61,13 @@
 | Return | The result a function gives back. | `return total;` | receipt | asking for more information on something |
 | Scope | Where a variable or function can be used. | (No set syntax — concept-based) | Gift card | coupons |
 | Class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` | Teahcers class periods | Presentations |
-| Object | A specific version of a class. | `Dog myDog = Dog();` |  |  |
-|      | A variable that belongs to a class/object. | `String name;` |  |  |
-|      | A function that belongs to a class. | `void bark() {}` |  |  |
-|      | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
-|      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
-|      | Changing how a built-in or inherited function behaves. | `@override` |  |  |
-|      | A function that does not return a value. | `void printMessage() {}` |  |  |
+| Object | A specific version of a class. | `Dog myDog = Dog();` | birthday  | birthday |
+| Property | A variable that belongs to a class/object. | `String name;` | seats on a airplane | wheels on a bus |
+| Method | A function that belongs to a class. | `void bark() {}` | how to solve a math problem | how to make a person jump in a video game |
+| Constructor | A special function used to set up a class when it’s created. | `Dog(this.name);` | date of birth | color of an app |
+| Abstraction | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) | username | video game characters |
+| Override | Changing how a built-in or inherited function behaves. | `@override` | someones anger | dog is running |
+| Void | A function that does not return a value. | `void printMessage() {}` | contact | code written wrong so an app doesn't work right |
 
 
 
