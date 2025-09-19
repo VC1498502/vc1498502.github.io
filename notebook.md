@@ -31,8 +31,8 @@
 | Container        | Wraps content with padding, margin, or color                   | A box to hold widgets. You can size, color, or style it
 | Text             | Displays text                                                  | Shows words on screen.
 | Image.network    | Display images from URL                                        | Displays an image from a URL.                         
-| Padding          | Adds space around a widget                                     |                                                 
-| Center           |Centers its child                                               |                                            
+| Padding          | Adds space around a widget                                     |  adds space around a widget                                                
+| Center           |Centers its child                                               |  centers its child                                          
 
 ---
 
