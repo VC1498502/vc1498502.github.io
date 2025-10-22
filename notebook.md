@@ -1,3 +1,4 @@
+
 # My Coding Notebook 
 
 ## Table of Contents
@@ -99,7 +100,9 @@
 | Abstraction | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) | username | video game characters |
 | Override | Changing how a built-in or inherited function behaves. | `@override` | someones anger | dog is running |
 | Void | A function that does not return a value. | `void printMessage() {}` | contact | code written wrong so an app doesn't work right |
-
+| Scanner | Creates a scanner object to take input from user | Scanner in = new Scanner(System.in); | | |
+| import Scanner | Gives access to Scanner class, required at top | import java .until.Scanner; | | | 
+| print statement | prins the content in the parenthesis | System.out.print
 
 
 
